@@ -1,6 +1,6 @@
 ActiveMQ-Sender-Receiver-Microservices
 
-1. type activemq start in terminal
+1. type activemq start in terminal.  localhost:8161/admin. Credential: admin/admin
 2. Start sender and consumer applications
 3. type http://localhost:8080/api/message/WelcomeToActiveMQ in browser
 4. Stop consumer application
